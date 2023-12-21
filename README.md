@@ -11,7 +11,7 @@ Discord - [0xblockhound](https://discordapp.com/users/718781231285796876)
 ## Private Audits
 | Sr | Protocol    | Report |
 |:--:|-------------|:------:|
-|  6 | NFTFN       |        |
+|  6 | NFTFN       |    [📄](https://github.com/Secureverse/Secureverse_Audit_Report/blob/main/NFTFN-Secureverse-AuditReport.pdf)    |
 |  5 | zkPiggyAI   |    [📄](https://github.com/Secureverse/Secureverse_Audit_Report/blob/main/zkPiggyAI%20Final.pdf)   |
 |  4 | Comearth-v2 |    [📄](https://github.com/Secureverse/Secureverse_Audit_Report/blob/main/Comearth-v2-Secureverse-AuditReport.pdf)   |
 |  3 | Comearth    |    [📄](https://github.com/Secureverse/Secureverse_Audit_Report/blob/main/Comearth-Secureverse-AuditReport.pdf)   |
