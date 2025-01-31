@@ -23,6 +23,8 @@ Discord - [0xblockhound](https://discordapp.com/users/718781231285796876)
 
 | Sr | Contest                |  Platfrom | Solo/Team | Report |
 |:--:|------------------------|:---------:|:---------:|:------:|
+|  6 | vVv Launchpad                  | Sherlock |    Solo   |  [📄](https://audits.sherlock.xyz/contests/647/report)      |
+|  5 | Sparkn                  | CodeHawks |    Solo   |  [📄](https://codehawks.cyfrin.io/c/2023-08-sparkn/results?lt=contest&sc=reward&sj=reward&page=1&t=report)      |
 |  4 | veRWA                  | Code4rena |    Solo   |  [📄](https://code4rena.com/reports/2023-08-verwa)      |
 |  3 | Chainlink Staking v0.2 | Code4rena |    Team   |        |
 |  2 | Basin                  | Code4rena |    Team   |  [📄](https://code4rena.com/reports/2023-07-basin)      |
